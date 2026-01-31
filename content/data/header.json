@@ -89,8 +89,8 @@
             "label": "Log in",
             "url": "/",
             "icon": "arrowRight",
-            "iconPosition": "left",
-            "style": "primary",
+            "iconPosition": "right",
+            "style": "secondary",
             "type": "Button",
             "showIcon": false
         }
