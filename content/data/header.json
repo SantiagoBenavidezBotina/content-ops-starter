@@ -92,7 +92,7 @@
             "iconPosition": "right",
             "style": "primary",
             "type": "Button",
-            "showIcon": true
+            "showIcon": false
         }
     ],
     "variant": "logo-centered-primary-nav-left",
